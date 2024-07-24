@@ -1,4 +1,4 @@
-package betAndGoTests;
+package betAndClubTests;
 
 import org.junit.After;
 import org.junit.Before;
